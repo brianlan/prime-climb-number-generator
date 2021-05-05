@@ -1,6 +1,6 @@
 import pytest
 
-from factor_number_generator.functional import get_factors
+from src.functional import get_factors
 
 
 def test_get_factors():
